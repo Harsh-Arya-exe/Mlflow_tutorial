@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/mlflow/mlruns/456480055487045490/a238bfa819dc4d1db1bea361a29f747d/artifacts
+end_time: 1750835666531
+entry_point_name: ''
+experiment_id: '456480055487045490'
+lifecycle_stage: active
+run_id: a238bfa819dc4d1db1bea361a29f747d
+run_name: ambitious-tern-258
+run_uuid: a238bfa819dc4d1db1bea361a29f747d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750835665097
+status: 3
+tags: []
+user_id: HP

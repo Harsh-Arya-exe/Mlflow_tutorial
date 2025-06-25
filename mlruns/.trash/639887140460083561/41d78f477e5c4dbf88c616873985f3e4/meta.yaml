@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/639887140460083561/41d78f477e5c4dbf88c616873985f3e4/artifacts
+deleted_time: 1750846510542
+end_time: 1750845917169
+entry_point_name: ''
+experiment_id: '639887140460083561'
+lifecycle_stage: deleted
+run_id: 41d78f477e5c4dbf88c616873985f3e4
+run_name: awesome-yak-702
+run_uuid: 41d78f477e5c4dbf88c616873985f3e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750845917124
+status: 3
+tags: []
+user_id: HP

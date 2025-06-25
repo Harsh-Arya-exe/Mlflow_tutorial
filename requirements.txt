@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+xgboost
+mlflow==2.9.2 # mlflow 3.0 was having support issues at that time
+ipykernel
+imbalanced-learn
+dagshub

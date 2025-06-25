@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/639887140460083561/36be2446a6f345c1882dd7fa440fec3c/artifacts
+deleted_time: 1750846510554
+end_time: 1750844362201
+entry_point_name: ''
+experiment_id: '639887140460083561'
+lifecycle_stage: deleted
+run_id: 36be2446a6f345c1882dd7fa440fec3c
+run_name: skittish-croc-778
+run_uuid: 36be2446a6f345c1882dd7fa440fec3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750844362085
+status: 3
+tags: []
+user_id: HP

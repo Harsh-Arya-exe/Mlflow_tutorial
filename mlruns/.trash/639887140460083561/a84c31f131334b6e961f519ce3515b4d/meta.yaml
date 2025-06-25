@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/639887140460083561/a84c31f131334b6e961f519ce3515b4d/artifacts
+deleted_time: 1750846510545
+end_time: 1750845524384
+entry_point_name: ''
+experiment_id: '639887140460083561'
+lifecycle_stage: deleted
+run_id: a84c31f131334b6e961f519ce3515b4d
+run_name: industrious-grub-610
+run_uuid: a84c31f131334b6e961f519ce3515b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750845524343
+status: 3
+tags: []
+user_id: HP

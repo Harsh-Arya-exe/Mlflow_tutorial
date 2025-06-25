@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/366931837630879397/804335f960a9408caaf28922d42d61d6/artifacts
+end_time: 1750846555333
+entry_point_name: ''
+experiment_id: '366931837630879397'
+lifecycle_stage: active
+run_id: 804335f960a9408caaf28922d42d61d6
+run_name: brawny-crane-738
+run_uuid: 804335f960a9408caaf28922d42d61d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750846555225
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/485585504021536228/d578766d303c439d800e42bf69d0bf56/artifacts
+deleted_time: 1750843561119
+end_time: 1750842492762
+entry_point_name: ''
+experiment_id: '485585504021536228'
+lifecycle_stage: deleted
+run_id: d578766d303c439d800e42bf69d0bf56
+run_name: RandomForestClassifier
+run_uuid: d578766d303c439d800e42bf69d0bf56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750842491491
+status: 3
+tags: []
+user_id: HP

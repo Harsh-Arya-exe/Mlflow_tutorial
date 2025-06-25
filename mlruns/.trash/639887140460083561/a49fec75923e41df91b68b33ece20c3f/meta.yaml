@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/639887140460083561/a49fec75923e41df91b68b33ece20c3f/artifacts
+deleted_time: 1750846510554
+end_time: 1750843710689
+entry_point_name: ''
+experiment_id: '639887140460083561'
+lifecycle_stage: deleted
+run_id: a49fec75923e41df91b68b33ece20c3f
+run_name: XGBClassifier With SMOTE
+run_uuid: a49fec75923e41df91b68b33ece20c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750843709426
+status: 3
+tags: []
+user_id: HP

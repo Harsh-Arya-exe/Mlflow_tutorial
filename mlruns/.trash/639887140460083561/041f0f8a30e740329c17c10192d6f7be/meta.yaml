@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow/mlruns/639887140460083561/041f0f8a30e740329c17c10192d6f7be/artifacts
+deleted_time: 1750846510544
+end_time: 1750846294931
+entry_point_name: ''
+experiment_id: '639887140460083561'
+lifecycle_stage: deleted
+run_id: 041f0f8a30e740329c17c10192d6f7be
+run_name: salty-vole-417
+run_uuid: 041f0f8a30e740329c17c10192d6f7be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750846294871
+status: 3
+tags: []
+user_id: HP
